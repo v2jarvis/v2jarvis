@@ -10,15 +10,11 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Structures**
 
-- 🌱 I’m currently learning **React Native and Angular**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **A Chat System**
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
-
-- 📝 I regularly write articles on [https://www.jarvisanalysthub.in/](https://www.jarvisanalysthub.in/)
-
-- 💬 Ask me about **React and Java**
+- 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **bittoojarvis@gmail.com**
 
@@ -26,18 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https/v2jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/v2jarvis" height="30" width="40" /></a>
-<a href="https://twitter.com/v2jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v2jarvis" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/v2jarvis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/v2jarvis/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15291585/niteesh-kumar-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15291585/niteesh-kumar-yadav" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/bittoojarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bittoojarvis" height="30" width="40" /></a>
-<a href="https://www.facebook.com/v2jarvis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/v2jarvis/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/v2jarvis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/v2jarvis/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/v2jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/v2jarvis" height="30" width="40" /></a>
 <a href="https://leetcode.com/v2jarvis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/v2jarvis/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@v2jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@v2jarvis" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/v2jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/v2jarvis" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/v2jarvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://www.topcoder.com/members/v2jarvis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
