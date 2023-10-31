@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Structures**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **A Chat System**
 
