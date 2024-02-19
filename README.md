@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **A Chat System**
 
-- 💬 Ask me about **Java and Python**
+- 💬 Ask me about **Python and AI/ML**
 
 - 📫 How to reach me **bittoojarvis@gmail.com**
 
